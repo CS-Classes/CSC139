@@ -1,2 +1,2 @@
-# CSC139-01
+# CSC139
 Web Development
